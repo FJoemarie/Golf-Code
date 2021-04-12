@@ -1,0 +1,25 @@
+body{
+    background-image: url(../img/1.jpg);
+    text-align: center;
+}
+#return{
+    font-size: 30px;
+    font-weight: bold;
+}
+#click{
+    font-size: 21px; 
+    border-radius: 2rem;
+    width: 9rem; 
+    height:40px;
+    background: rgb(128, 255, 255) none repeat scroll 0% 0%; 
+    color: rgb(128, 64, 64);
+}
+h1{
+    font-size: 40px;
+}
+#strokes{
+    font-size: 30px;
+}
+#par{
+    font-size: 30px;
+}
